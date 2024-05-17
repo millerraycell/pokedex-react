@@ -1,0 +1,9 @@
+.category-title > * {
+    width: 225px;
+    height: 135px;
+}
+
+.damage-info > * {
+    width: 200px;
+    height: 135px;
+}
